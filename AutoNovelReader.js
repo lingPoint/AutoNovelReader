@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         全自动TTS朗读小说(笔趣阁)
+// @name         全自动TTS朗读小说
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  全自动调用TTS朗读小说，解放双手!
 // @author       Zero.
 // @match        http://www.108shu.com/*
@@ -13,6 +13,7 @@
 (function () {
     'use strict';
     window.addEventListener('load', function () {
+        window.speechSynthesis.cancel();
         console.log('页面加载完成，开始朗读');
         const pageText = document.querySelector("#container > div.row.row-detail.row-reader > div > div.reader-main > h1").textContent + document.querySelector("#content").textContent;
         window.speechSynthesis.onvoiceschanged = function () {
