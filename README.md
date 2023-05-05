@@ -6,7 +6,7 @@
 
 在使用本脚本之前，您需要在浏览器上安装[Tampermonkey](https://www.tampermonkey.net/)。安装完Tampermonkey之后，您可以点击以下链接来安装本脚本：
 
-[点击此处安装全自动朗读小说(笔趣阁)](https://raw.githubusercontent.com/lingPoint/AutoNovelReader/blob/main/AutoNovelReader.js)
+[点击此处安装全自动朗读小说](https://greasyfork.org/zh-CN/scripts/465610-%E5%85%A8%E8%87%AA%E5%8A%A8tts%E6%9C%97%E8%AF%BB%E5%B0%8F%E8%AF%B4)
 
 > 注意：脚本中限制了网站的，可以自己动手修改。
 
