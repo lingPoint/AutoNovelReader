@@ -24,6 +24,7 @@
 如果您喜欢本脚本并希望支持作者，可以通过以下方式赞助：
 
 <img src="https://github.com/lingPoint/AutoNovelReader/blob/main/img.png" alt="Sponsor" width="600"/>
+![image](https://github.com/user-attachments/assets/68a2dee9-92b4-4e38-a9dc-d726f15f7144)
 
 
 感谢您的支持！
